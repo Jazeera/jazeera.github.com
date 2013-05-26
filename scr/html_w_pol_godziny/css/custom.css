@@ -1,0 +1,19 @@
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Corben', Georgia, Times, serif;
+}
+
+h1 { 
+    text-shadow: 1px 1px 1px #ccc;
+}
+.div-that-you want-to-stand-out { 
+    box-shadow: 0 0 1em 1em #ccc;
+}
+
+p, div {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+}
+
+.nav-pills > .active > a, .nav-pills > .active > a:hover {
+    background-color: #FF9473;
+}
